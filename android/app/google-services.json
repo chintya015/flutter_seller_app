@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751213344133",
+    "project_id": "eccomerce-fic7-9e865",
+    "storage_bucket": "eccomerce-fic7-9e865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751213344133:android:a03fde0b62b4783ed200ec",
+        "android_client_info": {
+          "package_name": "com.example.flutter_seller_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCm3jGUR5ZIYytd--63mQU6xVzcl0f-eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
